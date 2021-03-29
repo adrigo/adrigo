@@ -1,7 +1,6 @@
 ### Hi 👋
 
-I am **Adrián Gómez**. I am a Cybersecurity Technician and a Full Stack Developer, having a strong passion for new technologies and love to make my ideas grow from the ground up.
-
+I am **Adrián Gómez**. I am a Cybersecurity Technician and a Full Stack Developer, having a strong passion for new technologies and love to make my ideas grow from the ground up.<br>
 Skilled in PHP and related frameworks, Python and Databases.
 
 [![DJadrigo's Twitter URL](https://img.shields.io/twitter/url?label=DJadrigo&style=social&url=https%3A%2F%2Ftwitter.com%2FDJadrigo)](https://twitter.com/DJadrigo)
